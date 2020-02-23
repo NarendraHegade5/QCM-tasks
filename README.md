@@ -1,4 +1,4 @@
 # QC-mentorship-tasks
 - Maxcut - QAOA Grove
-- [Bell state preparation](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Bell state preparation](https://github.com/NarendraHegade5/QC-mentorship---tasks/blob/master/BellStatePreparation.ipynb)
 - Finding eigenvalue of a matrix using VQE
